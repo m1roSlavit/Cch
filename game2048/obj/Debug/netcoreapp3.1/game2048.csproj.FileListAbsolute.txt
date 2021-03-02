@@ -1,0 +1,13 @@
+F:\UZNU\Cch\game2048\bin\Debug\netcoreapp3.1\game2048.exe
+F:\UZNU\Cch\game2048\bin\Debug\netcoreapp3.1\game2048.deps.json
+F:\UZNU\Cch\game2048\bin\Debug\netcoreapp3.1\game2048.runtimeconfig.json
+F:\UZNU\Cch\game2048\bin\Debug\netcoreapp3.1\game2048.runtimeconfig.dev.json
+F:\UZNU\Cch\game2048\bin\Debug\netcoreapp3.1\game2048.dll
+F:\UZNU\Cch\game2048\bin\Debug\netcoreapp3.1\game2048.pdb
+F:\UZNU\Cch\game2048\obj\Debug\netcoreapp3.1\game2048.csprojAssemblyReference.cache
+F:\UZNU\Cch\game2048\obj\Debug\netcoreapp3.1\game2048.AssemblyInfoInputs.cache
+F:\UZNU\Cch\game2048\obj\Debug\netcoreapp3.1\game2048.AssemblyInfo.cs
+F:\UZNU\Cch\game2048\obj\Debug\netcoreapp3.1\game2048.csproj.CoreCompileInputs.cache
+F:\UZNU\Cch\game2048\obj\Debug\netcoreapp3.1\game2048.dll
+F:\UZNU\Cch\game2048\obj\Debug\netcoreapp3.1\game2048.pdb
+F:\UZNU\Cch\game2048\obj\Debug\netcoreapp3.1\game2048.genruntimeconfig.cache
