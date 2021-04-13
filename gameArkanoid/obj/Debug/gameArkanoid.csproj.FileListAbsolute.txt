@@ -1,0 +1,10 @@
+F:\UZNU\Cch\gameArkanoid\bin\Debug\gameArkanoid.exe.config
+F:\UZNU\Cch\gameArkanoid\bin\Debug\gameArkanoid.exe
+F:\UZNU\Cch\gameArkanoid\bin\Debug\gameArkanoid.pdb
+F:\UZNU\Cch\gameArkanoid\obj\Debug\gameArkanoid.csprojAssemblyReference.cache
+F:\UZNU\Cch\gameArkanoid\obj\Debug\gameArkanoid.Form1.resources
+F:\UZNU\Cch\gameArkanoid\obj\Debug\gameArkanoid.Properties.Resources.resources
+F:\UZNU\Cch\gameArkanoid\obj\Debug\gameArkanoid.csproj.GenerateResource.cache
+F:\UZNU\Cch\gameArkanoid\obj\Debug\gameArkanoid.csproj.CoreCompileInputs.cache
+F:\UZNU\Cch\gameArkanoid\obj\Debug\gameArkanoid.exe
+F:\UZNU\Cch\gameArkanoid\obj\Debug\gameArkanoid.pdb

@@ -1,0 +1,13 @@
+F:\UZNU\Cch\Classclass\bin\Debug\netcoreapp3.1\Classclass.exe
+F:\UZNU\Cch\Classclass\bin\Debug\netcoreapp3.1\Classclass.deps.json
+F:\UZNU\Cch\Classclass\bin\Debug\netcoreapp3.1\Classclass.runtimeconfig.json
+F:\UZNU\Cch\Classclass\bin\Debug\netcoreapp3.1\Classclass.runtimeconfig.dev.json
+F:\UZNU\Cch\Classclass\bin\Debug\netcoreapp3.1\Classclass.dll
+F:\UZNU\Cch\Classclass\bin\Debug\netcoreapp3.1\Classclass.pdb
+F:\UZNU\Cch\Classclass\obj\Debug\netcoreapp3.1\Classclass.csprojAssemblyReference.cache
+F:\UZNU\Cch\Classclass\obj\Debug\netcoreapp3.1\Classclass.AssemblyInfoInputs.cache
+F:\UZNU\Cch\Classclass\obj\Debug\netcoreapp3.1\Classclass.AssemblyInfo.cs
+F:\UZNU\Cch\Classclass\obj\Debug\netcoreapp3.1\Classclass.csproj.CoreCompileInputs.cache
+F:\UZNU\Cch\Classclass\obj\Debug\netcoreapp3.1\Classclass.dll
+F:\UZNU\Cch\Classclass\obj\Debug\netcoreapp3.1\Classclass.pdb
+F:\UZNU\Cch\Classclass\obj\Debug\netcoreapp3.1\Classclass.genruntimeconfig.cache

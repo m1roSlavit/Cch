@@ -1,0 +1,13 @@
+F:\UZNU\Cch\testMod\obj\Debug\netcoreapp3.1\testMod.csprojAssemblyReference.cache
+F:\UZNU\Cch\testMod\obj\Debug\netcoreapp3.1\testMod.AssemblyInfoInputs.cache
+F:\UZNU\Cch\testMod\obj\Debug\netcoreapp3.1\testMod.AssemblyInfo.cs
+F:\UZNU\Cch\testMod\obj\Debug\netcoreapp3.1\testMod.csproj.CoreCompileInputs.cache
+F:\UZNU\Cch\testMod\bin\Debug\netcoreapp3.1\testMod.exe
+F:\UZNU\Cch\testMod\bin\Debug\netcoreapp3.1\testMod.deps.json
+F:\UZNU\Cch\testMod\bin\Debug\netcoreapp3.1\testMod.runtimeconfig.json
+F:\UZNU\Cch\testMod\bin\Debug\netcoreapp3.1\testMod.runtimeconfig.dev.json
+F:\UZNU\Cch\testMod\bin\Debug\netcoreapp3.1\testMod.dll
+F:\UZNU\Cch\testMod\bin\Debug\netcoreapp3.1\testMod.pdb
+F:\UZNU\Cch\testMod\obj\Debug\netcoreapp3.1\testMod.dll
+F:\UZNU\Cch\testMod\obj\Debug\netcoreapp3.1\testMod.pdb
+F:\UZNU\Cch\testMod\obj\Debug\netcoreapp3.1\testMod.genruntimeconfig.cache
