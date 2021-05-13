@@ -1,0 +1,123 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "test1/1.0.0": {
+        "dependencies": {
+          "Microsoft.Kinect": "1.8.0.0",
+          "Microsoft.Kinect.Toolkit.BackgroundRemoval": "1.8.0.0",
+          "Microsoft.Kinect.Toolkit.Controls": "1.8.0.0",
+          "Microsoft.Kinect.Toolkit": "1.8.0.0",
+          "Microsoft.Kinect.Toolkit.Fusion": "1.8.0.0",
+          "Microsoft.Kinect.Toolkit.Interaction": "1.8.0.0",
+          "Interop.KinectManagement": "1.0.0.0"
+        },
+        "runtime": {
+          "test1.dll": {}
+        }
+      },
+      "Microsoft.Kinect/1.8.0.0": {
+        "runtime": {
+          "Microsoft.Kinect.dll": {
+            "assemblyVersion": "1.8.0.0",
+            "fileVersion": "1.8.0.595"
+          }
+        }
+      },
+      "Microsoft.Kinect.Toolkit.BackgroundRemoval/1.8.0.0": {
+        "runtime": {
+          "Microsoft.Kinect.Toolkit.BackgroundRemoval.dll": {
+            "assemblyVersion": "1.8.0.0",
+            "fileVersion": "1.8.0.572"
+          }
+        }
+      },
+      "Microsoft.Kinect.Toolkit.Controls/1.8.0.0": {
+        "runtime": {
+          "Microsoft.Kinect.Toolkit.Controls.dll": {
+            "assemblyVersion": "1.8.0.0",
+            "fileVersion": "1.8.0.572"
+          }
+        }
+      },
+      "Microsoft.Kinect.Toolkit/1.8.0.0": {
+        "runtime": {
+          "Microsoft.Kinect.Toolkit.dll": {
+            "assemblyVersion": "1.8.0.0",
+            "fileVersion": "1.8.0.572"
+          }
+        }
+      },
+      "Microsoft.Kinect.Toolkit.Fusion/1.8.0.0": {
+        "runtime": {
+          "Microsoft.Kinect.Toolkit.Fusion.dll": {
+            "assemblyVersion": "1.8.0.0",
+            "fileVersion": "1.8.0.572"
+          }
+        }
+      },
+      "Microsoft.Kinect.Toolkit.Interaction/1.8.0.0": {
+        "runtime": {
+          "Microsoft.Kinect.Toolkit.Interaction.dll": {
+            "assemblyVersion": "1.8.0.0",
+            "fileVersion": "1.8.0.572"
+          }
+        }
+      },
+      "Interop.KinectManagement/1.0.0.0": {
+        "runtime": {
+          "Interop.KinectManagement.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "test1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Kinect/1.8.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Kinect.Toolkit.BackgroundRemoval/1.8.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Kinect.Toolkit.Controls/1.8.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Kinect.Toolkit/1.8.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Kinect.Toolkit.Fusion/1.8.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Kinect.Toolkit.Interaction/1.8.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Interop.KinectManagement/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
