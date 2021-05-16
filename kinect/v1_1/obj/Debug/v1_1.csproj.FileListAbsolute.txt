@@ -1,0 +1,13 @@
+F:\UZNU\Cch\kinect\v1_1\bin\Debug\v1_1.exe.config
+F:\UZNU\Cch\kinect\v1_1\bin\Debug\v1_1.exe
+F:\UZNU\Cch\kinect\v1_1\bin\Debug\v1_1.pdb
+F:\UZNU\Cch\kinect\v1_1\bin\Debug\Microsoft.Kinect.dll
+F:\UZNU\Cch\kinect\v1_1\bin\Debug\Microsoft.Kinect.xml
+F:\UZNU\Cch\kinect\v1_1\obj\Debug\v1_1.Properties.Resources.resources
+F:\UZNU\Cch\kinect\v1_1\obj\Debug\v1_1.csproj.GenerateResource.cache
+F:\UZNU\Cch\kinect\v1_1\obj\Debug\v1_1.csproj.CoreCompileInputs.cache
+F:\UZNU\Cch\kinect\v1_1\obj\Debug\v1_1.csproj.CopyComplete
+F:\UZNU\Cch\kinect\v1_1\obj\Debug\v1_1.exe
+F:\UZNU\Cch\kinect\v1_1\obj\Debug\v1_1.pdb
+F:\UZNU\Cch\kinect\v1_1\obj\Debug\v1_1.csprojAssemblyReference.cache
+F:\UZNU\Cch\kinect\v1_1\obj\Debug\v1_1.Form1.resources
