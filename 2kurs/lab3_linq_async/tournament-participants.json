@@ -1,0 +1,72 @@
+[
+  {
+    "Id": 1,
+    "FullName": "Ivan ivanov Ivanovich                                                                               ",
+    "Sex": "Male      ",
+    "Age": 24,
+    "Country": "Ukraine                                           ",
+    "CompetitionRating1": 62,
+    "CompetitionRating2": 29,
+    "CompetitionRating3": 107
+  },
+  {
+    "Id": 2,
+    "FullName": "Travis Holland                                                                                      ",
+    "Sex": "Male      ",
+    "Age": 36,
+    "Country": "USA                                               ",
+    "CompetitionRating1": 35,
+    "CompetitionRating2": 106,
+    "CompetitionRating3": 107
+  },
+  {
+    "Id": 3,
+    "FullName": "Nicole Stevens                                                                                      ",
+    "Sex": "Female    ",
+    "Age": 29,
+    "Country": "GB                                                ",
+    "CompetitionRating1": 62,
+    "CompetitionRating2": 29,
+    "CompetitionRating3": 61
+  },
+  {
+    "Id": 4,
+    "FullName": "raymond hunt                                                                                        ",
+    "Sex": "Male      ",
+    "Age": 18,
+    "Country": "USA                                               ",
+    "CompetitionRating1": 29,
+    "CompetitionRating2": 51,
+    "CompetitionRating3": 104
+  },
+  {
+    "Id": 5,
+    "FullName": "erica byrd                                                                                          ",
+    "Sex": "Female    ",
+    "Age": 34,
+    "Country": "USA                                               ",
+    "CompetitionRating1": 85,
+    "CompetitionRating2": 83,
+    "CompetitionRating3": 62
+  },
+  {
+    "Id": 6,
+    "FullName": "Alberto Stephens                                                                                    ",
+    "Sex": "Male      ",
+    "Age": 12,
+    "Country": "Ukraine                                           ",
+    "CompetitionRating1": 51,
+    "CompetitionRating2": 54,
+    "CompetitionRating3": 53
+  },
+  {
+    "Id": 7,
+    "FullName": "Lonnie Fox                                                                                          ",
+    "Sex": "Male      ",
+    "Age": 17,
+    "Country": "USA                                               ",
+    "CompetitionRating1": 107,
+    "CompetitionRating2": 108,
+    "CompetitionRating3": 95
+  }
+]
